@@ -6,6 +6,7 @@ import Camera from "./page/Camera";
 import CropFoto from "./page/CropFoto";
 import Galeri from "./page/Galeri";
 function App() {
+
   return (
     <Router>
       <div className="bg-[#212121] w-screen h-screen flex justify-center items-center">

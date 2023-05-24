@@ -1,0 +1,13 @@
+Search Query :
+
+install react JS
+install tailwind
+library javascript camera
+react router dom v6
+install jslib-html5-camera-photo
+contoh react ambil foto dari galeri
+cara membuat button tidak bisa dipencet
+cara crop image menggunakan library react JS
+install react-cropper
+install zustand
+cara menggunakan regex javascripts
